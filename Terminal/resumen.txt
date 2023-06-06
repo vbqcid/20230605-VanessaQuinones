@@ -1,0 +1,5 @@
+COMANDO1: "pwd" nos muestra la carpeta actual en la que nos encontramos
+COMANDO2: "mkdir" nos premite crear carpetas.
+COMANDO3: "touch" nos permite crear archivos.
+COMANDO4: "cd" nos permite cambiarnos de carpetas.
+COMANDO5: "ls" nos permite ver los archivos de la carpeta en la que nos encontramos.
