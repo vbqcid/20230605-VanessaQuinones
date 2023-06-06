@@ -1,0 +1,38 @@
+  457  mkdir 20230605-VanessaQuinones
+  458  cd 20230605-VanessaQuinones/
+  459  git init
+  460  git remote add origin https://github.com/vbqcid/20230605-VanessaQuinones.git
+  461  git -v
+  462  git status
+  463  git -V
+  464  ls
+  465  touch comandos.txt main.js index.html
+  466  git add .
+  467  git commit -m "Commit 01 de VanessaQuinones"
+  468  git branch feature01
+  469  git checkout feature01
+  470  mkdir Terminal Hardware
+  471  cd Terminal/
+  472  touch resumen.txt
+  473  cd ..
+  474  cd Hardware/
+  475  touch resumen.txt
+  476  cd ..
+  477  git status
+  478  git add .
+  479  git commit -m "Commit 02 de VanessaQuinones"
+  480  git push origin feature01
+  481  ls -R
+  482  git branch feature02
+  483  git checkout feature02
+  484  git status
+  485  git add .
+  486  git commit -m "Commit 03 de VanessaQuinones"
+  487  git push origin feature02
+  488  git checkout main
+  489  ls
+  490  mv comandos.txt comandosUtilizados.txt
+  491  ls
+  492  git log
+  493  history 100
+
